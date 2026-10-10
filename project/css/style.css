@@ -1,0 +1,78 @@
+/* Styling cho body */
+body {
+  background-color: #faf9f6;
+  color: #24313a;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  max-width: 960px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Thanh điều hướng navigation */
+nav {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 1.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e9d5ff;
+}
+
+a {
+  color: #7c3aed;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+main {
+  min-height: 18rem;
+}
+
+/* Kiểu dáng các tiêu đề h1, h2, h3 */
+h1 {
+  color: #7c3aed;
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+}
+
+h2 {
+  color: #c2410c;
+  font-size: 1.6rem;
+  margin-top: 1.8rem;
+}
+
+h3 {
+  color: #047857;
+  font-size: 1.2rem;
+  margin-top: 1.2rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+/* Kiểu dáng cho hình ảnh */
+img {
+  max-width: 100%;
+  height: auto;
+  border: 4px solid #e9d5ff;
+  border-radius: 12px;
+  margin: 1rem 0;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+/* Kiểu dáng danh sách */
+ul {
+  padding-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+li {
+  margin-bottom: 0.4rem;
+}
