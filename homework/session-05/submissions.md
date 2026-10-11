@@ -1,1 +1,1 @@
-- Session 05 - [Dán link Google Drive video của bạn vào đây]
+- Session 05 - https://drive.google.com/drive/folders/1krFk1mia6dMwCAkA9BiPLgyUg7ZDj7T6?usp=drive_link
